@@ -1,7 +1,7 @@
 # Recommender-System
 Implementing and comparing various techniques for building a  Recommender System. 
 
-## <b>---Recommender System using various approaches.---
+## <b>---Recommender System using various approaches.---</b>
 
 <b> Loosely speaking, there are 2 broad ways:</b>
 <ol>
